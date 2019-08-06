@@ -1,7 +1,7 @@
 # vue-firebase
 
 > A Vue.js project
-
+> reference site: https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase
 ## Build Setup
 
 ``` bash
